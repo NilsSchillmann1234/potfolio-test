@@ -6,5 +6,9 @@ The project is a simple Python script that prints "Hello World" to the console.
 
 
 # Requirements
-...
+ You need UV for the Project.
+
+
+ install uv:
+ `winget install uv`
 
